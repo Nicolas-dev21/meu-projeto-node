@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # sistema-controle-tarefas
 
 ## Project setup
@@ -23,6 +23,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-=======
-# meu-projeto-node
->>>>>>> c283ff0c25dfa2c5c07a73100ad659302a5cd1d1
